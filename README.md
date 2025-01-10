@@ -36,11 +36,7 @@ pip install pygame
 
 ## Supported Elements
 The simulator currently supports the following elements:
-- Hydrogen (H)
-- Helium (He)
-- Lithium (Li)
-- Beryllium (Be)
-- Boron (B)
+- ALL 118 ELEMENTS
 
 ## Application Components
 1. **Atomic Data:** Stores the properties of each supported element (symbol, atomic number, mass number, etc.).
@@ -48,14 +44,4 @@ The simulator currently supports the following elements:
 3. **Speed Control:** Adjusts the electron animation speed interactively.
 4. **GUI Buttons and Slider:** Provides an intuitive interface for navigation and control.
 
-## Customization
-To add more elements, update the `atomic_data` dictionary with the new element's properties, including the symbol, atomic number, mass number, number of neutrons, and electron configuration.
-
-## Screenshots
-Add screenshots or gifs to showcase the simulator in action.
-
----
-
-### Disclaimer
-This project is for educational purposes and demonstrates basic atomic visualizations. It does not account for complex quantum mechanics or real-world electron behavior.
 
